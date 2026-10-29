@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+
+# Maven build output
+target/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
